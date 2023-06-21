@@ -1,6 +1,6 @@
  # Deep-Horizon
 
-A Bayesian Neural Network for parameter estimation framework on Event Horizon Telescope black hole images.
+A Bayesian Neural Network for parameter estimation on Event Horizon Telescope black hole images.
 
 Paper: [link](https://www.aanda.org/articles/aa/full_html/2020/04/aa37014-19/aa37014-19.html)
 
